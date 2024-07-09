@@ -1,3 +1,6 @@
+SCREENSHOTS:
+![Title Screen](https://raw.githubusercontent.com/Buckerit/Goblin_Slayer_Game/main/Goblin_SlayerGame.png)
+
 GENERAL DESCRIPTION:
 My program is called Goblin Slayer, the purpose of this program is to shoot the goblins coming out of the screen, and basically to survive as long as possible, before either the goblins reach your base, you run out of bullets, or you get stabbed. The soldier is ill-fated to never escape the cycle, and he will eventually die, whether it be to the knives that increase in number every 35 seconds, or the goblins that come out faster every 35 seconds! As you can probably infer, every 35 seconds, the difficulty level increases by one and is displayed on screen. It takes 2 shots to kill a goblin, and it progressively gets harder as time goes on. When you first boot up, you will be asked to choose a time interval to see how often you want the goblins to spawn, the average amount being 3 seconds. Then, at every level, the goblins spawn 20 percent faster from there. Depending on the time interval you choose at first, you will get a different number of bullets. If you choose anything less than 2 seconds intervals, you will get 35 bullets. The higher the interval, the less bullets you start off with. You will get an error if you choose a second decimal or number that is not between 1 and 6. There is also a green powerup that gives max health back, and an orange one that gives you more bullets(at each difficulty change, the powerup gives more bullets than before). There are also knives that are thrown by the goblins behind the screen and if you get hit by the knife 2 times, the game ends.
 
@@ -13,5 +16,4 @@ You use the W and S key to move the soldier up and down the screen. And you righ
 HOW TO GAME OVER:
 If you get one of the three message boxes, this means that the game is over and you have lost, you have to click the ok button to exit.
 
-SCREENSHOTS:
-![Title Screen](https://raw.githubusercontent.com/Buckerit/Goblin_Slayer_Game/main/Goblin_SlayerGame.png)
+
