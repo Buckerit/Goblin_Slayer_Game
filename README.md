@@ -14,4 +14,4 @@ HOW TO GAME OVER:
 If you get one of the three message boxes, this means that the game is over and you have lost, you have to click the ok button to exit.
 
 SCREENSHOTS:
-![Title Screen]
+![Title Screen](https://raw.githubusercontent.com/Buckerit/Goblin_Slayer_Game/main/Goblin_SlayerGame.png)
