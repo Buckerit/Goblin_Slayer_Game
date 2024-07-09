@@ -1,9 +1,7 @@
 '''
-Name: Johann Jacobs and Aarav Rothe
-Date: Wed Jun 5
-Course Code: ICS-3U1
-Teacher: Mr. Bulhao
-Assignment/Task: Goblin Slayer game with American ideologies of our glorious Uncle Sam for major culminating task (Definitely not named after the anime ^_^)
+Name: and Aarav Rothe
+Date: Wed Jun 5, 2023
+Task: Goblin Slayer game with American ideologies of our glorious Uncle Sam (Definitely not named after the anime ^_^)
 '''
 
 #import pygame,random, tkinter, and messagebox, and os module
